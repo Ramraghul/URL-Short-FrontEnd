@@ -2,7 +2,7 @@
     <br/>
     <p>Pleas Enter the Valid Email ID because Email Validation and Activation is Available in this App </p>
     <br/>
-    <a href="https://url-short-1.netlify.app">Click here</a>
+    <a href="https://url-short-1.netlify.app" target="_blank">Click here</a>
     <br/>
     <br/>
     <img src="./Login.jpeg" alt="Login">
