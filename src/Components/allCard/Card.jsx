@@ -13,7 +13,7 @@ function Card() {
 
     let Data = async () => {
         try {
-            let output = await axios.get(`${API.URL}//Data/All`)
+            let output = await axios.get(`${API.URL}/Data/All`)
             setUrl(output.data)
         } catch (error) {
             console.log(error);
