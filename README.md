@@ -4,6 +4,6 @@
     <br/>
     <a href="www.google.com">Click here</a>
     <br/>
-    <img src="./Login.png" alt="Login">
+    <img src="./Login.jpeg" alt="Login">
     <br/>
-    <img src="./Home.png" alt="Home">
+    <img src="./Home.jpeg" alt="Home">
