@@ -42,6 +42,7 @@
     border-color: transparent;
     overflow: auto;
     outline: none;
+    width: 14rem;
 }
 .Long::-webkit-scrollbar{
     display: none;
